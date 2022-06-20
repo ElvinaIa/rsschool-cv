@@ -53,6 +53,6 @@ The best specialist in his field, to solve your tasks
 + ![codewarsLogo](https://www.codewars.com/users/ElvinaIa/badges/micro)   
 [codewars.com](https://www.codewars.com/users/ElvinaIa/stats) 
 
-+ [GitHub](https://github.com/ElvinaIa/rsschool-cv.git) 
++ [GitHub] (https://github.com/ElvinaIa/rsschool-cv/blob/gh-pages/README)
 
 

@@ -48,7 +48,7 @@ The best specialist in his field, to solve your tasks
 + English - Proficiency (C2).
 
 
-**Codes:**
+**Code:**
 
 + ![codewarsLogo](https://www.codewars.com/users/ElvinaIa/badges/micro)   
 [codewars.com](https://www.codewars.com/users/ElvinaIa/stats) 

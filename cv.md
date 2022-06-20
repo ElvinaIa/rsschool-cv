@@ -3,7 +3,7 @@
 ![photo](img/foto.jpg)
 
 ##### +79174347122 (WhatsApp, telegram)
-##### Elvina#2320 Discord
+##### Elvina#2320 (@ElvinaIa) Discord
 ##### Elvina@enmeet.com
 
 
@@ -53,6 +53,11 @@ The best specialist in his field, to solve your tasks
 + ![codewarsLogo](https://www.codewars.com/users/ElvinaIa/badges/micro)   
 [codewars.com](https://www.codewars.com/users/ElvinaIa/stats) 
 
-+ [GitHub] (https://github.com/ElvinaIa/rsschool-cv/blob/gh-pages/README)
++ ![GitHub] (https://github.com/ElvinaIa/rsschool-cv/blob/gh-pages/README)
+
+function sum(a, b) {
+		return a + b;
+	}
+	console.log(sum(2, 3));
 
 
